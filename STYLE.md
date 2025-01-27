@@ -1,4 +1,4 @@
-# Travis CI Documentation Style Guide
+## Travis CI Documentation Style Guide
 
 ## Markdown and Structure
 
